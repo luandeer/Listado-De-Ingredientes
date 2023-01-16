@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Listado-De-Ingredientes/static/css/main.bbdb4538.css",
-    "main.js": "/Listado-De-Ingredientes/static/js/main.5b181548.js",
+    "main.js": "/Listado-De-Ingredientes/static/js/main.05aad821.js",
     "static/media/pimienta blanca.jpeg": "/Listado-De-Ingredientes/static/media/pimienta blanca.e5d62c4a78656dbaa4b4.jpeg",
     "static/media/canelaChina.jpeg": "/Listado-De-Ingredientes/static/media/canelaChina.d0657c17827defbf1814.jpeg",
     "static/media/anisEstrella.jpeg": "/Listado-De-Ingredientes/static/media/anisEstrella.d9ac9fa31507af448f9d.jpeg",
@@ -22,10 +22,10 @@
     "static/media/sal.jpg": "/Listado-De-Ingredientes/static/media/sal.dd6da69633e61c4e91d3.jpg",
     "index.html": "/Listado-De-Ingredientes/index.html",
     "main.bbdb4538.css.map": "/Listado-De-Ingredientes/static/css/main.bbdb4538.css.map",
-    "main.5b181548.js.map": "/Listado-De-Ingredientes/static/js/main.5b181548.js.map"
+    "main.05aad821.js.map": "/Listado-De-Ingredientes/static/js/main.05aad821.js.map"
   },
   "entrypoints": [
     "static/css/main.bbdb4538.css",
-    "static/js/main.5b181548.js"
+    "static/js/main.05aad821.js"
   ]
 }
