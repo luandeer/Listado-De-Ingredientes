@@ -1,0 +1,38 @@
+.contenedor-ingrediente{
+    width: 400px;
+    height: 200px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+.imagen-ingrediente{
+    width:auto; 
+    height: 100%;
+}
+.contenedor-texto-ingrediente{
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+    padding: 0px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+.nombre-ingrediente{
+    font-size: 1.6rem;
+    line-height: 1.5rem;
+    font-weight: 900;
+}
+.cantidad-ingrediente{
+    font-size: 1.3rem;
+    margin-top: 10px;
+    padding-bottom: 0px;
+}
+.tipo-ingrediente{
+    font-size: 1.3rem;
+    margin-top: 10px;
+    padding-bottom: 0px;
+}
