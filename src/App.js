@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className='contenedor-principal'>
-        <h1> Ingredientes de aderezo del Pollo a la Brasa</h1>
+        <h1> Ingredientes</h1>
         <Ingredientes 
           nombre='Ajo Pelado'
           cantidad='10 Kg.'
@@ -93,7 +93,7 @@ function App() {
         />
         <Ingredientes 
           nombre='Romero'
-          cantidad='2 artusas.'
+          cantidad='3 artusas.'
           imagen='romero.jpg'
           tipo='en polvo'
         />
