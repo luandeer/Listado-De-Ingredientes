@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Listado-De-Ingredientes/static/css/main.bbdb4538.css",
+    "main.js": "/Listado-De-Ingredientes/static/js/main.5b181548.js",
+    "static/media/pimienta blanca.jpeg": "/Listado-De-Ingredientes/static/media/pimienta blanca.e5d62c4a78656dbaa4b4.jpeg",
+    "static/media/canelaChina.jpeg": "/Listado-De-Ingredientes/static/media/canelaChina.d0657c17827defbf1814.jpeg",
+    "static/media/anisEstrella.jpeg": "/Listado-De-Ingredientes/static/media/anisEstrella.d9ac9fa31507af448f9d.jpeg",
+    "static/media/kion.jpeg": "/Listado-De-Ingredientes/static/media/kion.81ede6e9e3106986b67a.jpeg",
+    "static/media/vino.jpeg": "/Listado-De-Ingredientes/static/media/vino.988016c13efca38ae23c.jpeg",
+    "static/media/cerveza.jpeg": "/Listado-De-Ingredientes/static/media/cerveza.52375220b3fadb31b4f7.jpeg",
+    "static/media/sillao.jpeg": "/Listado-De-Ingredientes/static/media/sillao.fd395ed67fd03b47ac9f.jpeg",
+    "static/media/vinagre.jpeg": "/Listado-De-Ingredientes/static/media/vinagre.e9f9256a0f42b27a44aa.jpeg",
+    "static/media/salsadesoya.jpeg": "/Listado-De-Ingredientes/static/media/salsadesoya.30ce838500ea743b6806.jpeg",
+    "static/media/salsadesoya2.jpeg": "/Listado-De-Ingredientes/static/media/salsadesoya2.32867770eb9e9e79a715.jpeg",
+    "static/media/ajos.jpeg": "/Listado-De-Ingredientes/static/media/ajos.91f7d87a278d8d0fa473.jpeg",
+    "static/media/mensi.jpeg": "/Listado-De-Ingredientes/static/media/mensi.6533503f03823f2100a8.jpeg",
+    "static/media/pimienta.jpg": "/Listado-De-Ingredientes/static/media/pimienta.c991dbd4313b46902048.jpg",
+    "static/media/romero.jpg": "/Listado-De-Ingredientes/static/media/romero.c0cadf3f42f27bd3769d.jpg",
+    "static/media/caldoPollo.jpeg": "/Listado-De-Ingredientes/static/media/caldoPollo.406e643ffd1d5a289e74.jpeg",
+    "static/media/comino.jpg": "/Listado-De-Ingredientes/static/media/comino.251c83d18dbc049f3392.jpg",
+    "static/media/coca.jpeg": "/Listado-De-Ingredientes/static/media/coca.199ac1e96a458f683865.jpeg",
+    "static/media/sal.jpg": "/Listado-De-Ingredientes/static/media/sal.dd6da69633e61c4e91d3.jpg",
+    "index.html": "/Listado-De-Ingredientes/index.html",
+    "main.bbdb4538.css.map": "/Listado-De-Ingredientes/static/css/main.bbdb4538.css.map",
+    "main.5b181548.js.map": "/Listado-De-Ingredientes/static/js/main.5b181548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbdb4538.css",
+    "static/js/main.5b181548.js"
+  ]
+}
